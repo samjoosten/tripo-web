@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "68SSU5S7M2.com.samjoosten.tripo",
+        "paths": [
+          "/join/*"
+        ]
+      }
+    ]
+  }
+}

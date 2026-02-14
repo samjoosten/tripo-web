@@ -13,4 +13,10 @@ export default defineConfig({
       "@": fileURLToPath(new URL("./src", import.meta.url)),
     },
   },
+  server: {
+    headers: {
+      // Ensure .well-known files are served with correct content-type
+      "Content-Type": "application/json",
+    },
+  },
 });

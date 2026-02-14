@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.samjoosten.tripo",
+      "sha256_cert_fingerprints": [
+        "9B:F4:CE:0E:BD:1D:A6:B4:70:1C:C1:BA:36:11:39:A6:2E:3F:50:2A:42:C6:B3:93:52:C1:29:1D:5B:48:30:F2"
+      ]
+    }
+  }
+]
